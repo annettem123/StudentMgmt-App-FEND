@@ -106,3 +106,8 @@ DAY 6 (4/8/22):
 
 
 [1-StudentAdmin-App-Project-Architecture-and-Dev-Process.pdf](https://github.com/annettem123/StudentAdmin-App-FEND/files/8367607/1-StudentAdmin-App-Project-Architecture-and-Dev-Process.pdf)
+
+[School-Mgmt-User-Stories.pdf](https://github.com/annettem123/StudentMgmt-App-FEND/files/8414051/School-Mgmt-User-Stories.pdf)
+
+[StudentMgmt-App-ERD.pdf](https://github.com/annettem123/StudentMgmt-App-FEND/files/8414050/StudentMgmt-App-ERD.pdf)
+
