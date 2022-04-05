@@ -104,10 +104,13 @@ DAY 6 (4/8/22):
 
 11:30 a.m. presentation
 
-
-[1-StudentAdmin-App-Project-Architecture-and-Dev-Process.pdf](https://github.com/annettem123/StudentAdmin-App-FEND/files/8367607/1-StudentAdmin-App-Project-Architecture-and-Dev-Process.pdf)
+[StudentMgmt-App-Project-Architecture-and-Dev-Process.pdf](https://github.com/annettem123/StudentMgmt-App-FEND/files/8414401/StudentMgmt-App-Project-Architecture-and-Dev-Process.pdf)
 
 [School-Mgmt-User-Stories.pdf](https://github.com/annettem123/StudentMgmt-App-FEND/files/8414051/School-Mgmt-User-Stories.pdf)
 
 [StudentMgmt-App-ERD.pdf](https://github.com/annettem123/StudentMgmt-App-FEND/files/8414050/StudentMgmt-App-ERD.pdf)
+
+[StudentMgmt-App-Wireframe1.pdf](https://github.com/annettem123/StudentMgmt-App-FEND/files/8414376/StudentMgmt-App-Wireframe1.pdf)
+
+[StudentMgmt-App-Wireframe2.pdf](https://github.com/annettem123/StudentMgmt-App-FEND/files/8414380/StudentMgmt-App-Wireframe2.pdf)
 
